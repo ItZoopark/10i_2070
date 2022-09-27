@@ -20,5 +20,26 @@
 #         print(i, end=' ')
 # Факториал ----------------------------
 # 5! = 5*4*3*2*1
+# n = int(input("n= "))
+# f = 1
+# for i in range(n, 1, -1): #2..n
+#     f = f * i
+#     print(f"i={i}, f={f}")
+# Число сочетаний --------
 n = int(input("n= "))
-f = 1
+k = int(input("k= "))
+
+fn = 1
+for i in range(n, 1, -1):
+    fn = fn * i
+
+fk = 1
+for i in range(k, 1, -1):
+    fk = fk * i
+
+fnk = 1
+for i in range(n-k, 1, -1):
+    fnk = fnk * i
+
+cnk = fn/(fk * fnk)
+print(cnk)
