@@ -22,3 +22,7 @@
 
 ![image](https://user-images.githubusercontent.com/90249513/193785487-b3c3723e-8871-4b84-9d87-5227cdaec700.png)
 
+# упростить выражения:
+
+![image](https://user-images.githubusercontent.com/90249513/193785890-9bddf4bb-f69c-407b-bbdd-96ca03ecf113.png)
+
