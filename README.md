@@ -26,3 +26,4 @@
 
 ![image](https://user-images.githubusercontent.com/90249513/193785890-9bddf4bb-f69c-407b-bbdd-96ca03ecf113.png)
 
+![Снимок экрана 2022-10-06 в 11 11 32](https://user-images.githubusercontent.com/90249513/194265208-0896f7da-be43-4fc8-9360-1c18ea8172d3.png)
